@@ -29,6 +29,147 @@
         "50ml cà phê phin đậm đặc"
       ],
       "instructions": "1. Cho lòng đỏ trứng, sữa đặc và mật ong vào cốc, dùng máy đánh trứng đánh bông ở tốc độ cao trong 5-7 phút đến khi hỗn hợp sánh mịn như kem.\n2. Pha cà phê phin nóng ra cốc thủy tinh.\n3. Nhẹ nhàng rót lớp kem trứng đã đánh bông lên trên bề mặt cà phê nóng và thưởng thức ngay."
-    }
-  ]
-}
+    },
+    {
+      "id": "vn_03",
+      "name": "Bún Chả Hà Nội",
+      "category": "Món Khô",
+      "area": "Hà Nội",
+      "thumb": "https://githubusercontent.com",
+      "ingredients": [
+        "500g thịt ba chỉ",
+        "400g thịt nạc vai băm nhuyễn",
+        "1kg bún rối sợi nhỏ",
+        "1/2 quả đu đủ xanh, 1 củ cà rốt",
+        "Nước mắm, đường, giấm gạo, tỏi, ớt băm",
+        "Rau sống ăn kèm (xà lách, tía tô, kinh giới, húng láng)"
+      ],
+      "instructions": "1. Thịt ba chỉ thái miếng vừa ăn, ướp với hành khô băm, nước mắm, hạt tiêu, chút đường và nước hàng trong 1 tiếng. Thịt băm ướp tương tự rồi nặn thành viên dẹt.\n2. Nướng thịt trên than hoa cho đến khi xém cạnh, dậy mùi thơm.\n3. Pha nước chấm chua ngọt theo tỷ lệ 1 mắm : 1 đường : 1 giấm : 4 nước ấm, thả đu đủ và cà rốt tỉa hoa vào.\n4. Dọn thịt nướng vào bát nước chấm ấm, ăn kèm bún và rau sống."
+    },
+    {
+      "id": "vn_04",
+      "name": "Bánh Mì Thịt Nguội Pa-tê",
+      "category": "Món Cuốn & Bánh",
+      "area": "Toàn Quốc",
+      "thumb": "https://githubusercontent.com",
+      "ingredients": [
+        "2 ổ bánh mì vỏ giòn",
+        "100g pa-tê gan heo",
+        "100g chả lụa, 100g thịt xá xíu thái mỏng",
+        "2 thìa bơ trứng gà (mayonnaise)",
+        "Đồ chua (cà rốt, củ cải trắng ngâm chua ngọt)",
+        "Dưa chuột, rau mùi, hành lá, ớt tươi, nước tương"
+      ],
+      "instructions": "1. Nướng sơ lại ổ bánh mì cho vỏ nóng giòn, rạch dọc một bên thân bánh.\n2. Phết đều một lớp bơ trứng gà và một lớp pa-tê gan vào mặt trong của bánh.\n3. Xếp lần lượt chả lụa, thịt xá xíu, dưa chuột thái lát dài, đồ chua và rau mùi vào giữa.\n4. Rưới thêm chút nước tương, tương ớt tùy khẩu vị và thưởng thức ngay khi còn nóng."
+    },
+    {
+      "id": "vn_05",
+      "name": "Bún Bò Huế",
+      "category": "Món Nước",
+      "area": "Miền Trung",
+      "thumb": "https://githubusercontent.com",
+      "ingredients": [
+        "1kg xương ống bò và chân giò heo",
+        "500g bắp bò, 300g chả cua Huế",
+        "1kg bún sợi to",
+        "3 thìa canh mắm ruốc Huế",
+        "6 cây sả đập dập, gừng, hành tím, dầu điều",
+        "Rau chuối bào, giá đỗ, rau răm, chanh, sa tế"
+      ],
+      "instructions": "1. Ninh xương bò, chân giò và bắp bò với sả đập dập trong 2-3 tiếng. Khi thịt mềm thì vớt bắp bò và chân giò ra ngâm nước lạnh cho săn.\n2. Hòa tan mắm ruốc với nước lạnh, gạn lấy phần nước trong đổ vào nồi nước dùng.\n3. Phi thơm hành tỏi băm với dầu điều và sả băm để tạo màu đỏ cam đặc trưng rồi trút vào nồi nước dùng.\n4. Xếp bún, thịt bắp bò thái mỏng, chân giò và chả cua vào tô, chan nước dùng nóng và ăn kèm rau chuối bào."
+    },
+    {
+      "id": "vn_06",
+      "name": "Gỏi Cuốn Tôm Thịt",
+      "category": "Món Cuốn & Bánh",
+      "area": "Miền Nam",
+      "thumb": "https://githubusercontent.com",
+      "ingredients": [
+        "1 xấp bánh tráng mỏng dẻo",
+        "300g tôm sú tươi",
+        "300g thịt ba chỉ heo",
+        "200g bún tươi",
+        "Hẹ lá, xà lách, tía tô, rau thơm",
+        "Tương đen, bơ đậu phộng, đậu phộng rang giã dập (làm nước chấm)"
+      ],
+      "instructions": "1. Luộc chín thịt ba chỉ rồi thái lát mỏng vừa cuốn. Luộc tôm với chút muối, bóc vỏ, chẻ đôi theo chiều dọc.\n2. Làm ẩm nhẹ mặt bánh tráng, đặt rau xà lách, rau thơm, một ít bún và 2 lát thịt lên trên.\n3. Cuộn tròn được 1 vòng thì xếp 2 nửa con tôm (mặt đỏ hướng ra ngoài) và vài cọng hẹ vào, cuộn chặt tay đến hết mép bánh.\n4. Chấm cùng tương đen pha bơ đậu phộng hoặc nước mắm chua ngọt."
+    },
+    {
+      "id": "vn_07",
+      "name": "Cơm Tấm Sườn Bì Chả",
+      "category": "Món Khô",
+      "area": "Sài Gòn",
+      "thumb": "https://githubusercontent.com",
+      "ingredients": [
+        "500g gạo tấm thơm",
+        "4 miếng sườn cốt lết heo",
+        "200g bì heo trộn thính",
+        "200g chả trứng hấp",
+        "Mỡ hành, đồ chua, dưa chuột, cà chua",
+        "Nước mắm kẹo chua ngọt, mật ong, dầu hào, sả băm"
+      ],
+      "instructions": "1. Dần nhẹ miếng sườn cốt lết cho mềm, ướp với nước mắm, mật ong, dầu hào, tỏi và sả băm ít nhất 2 tiếng rồi nướng chín vàng trên than.\n2. Nấu gạo tấm với lượng nước vừa phải để hạt cơm tơi xốp, không bị nhão.\n3. Bày cơm tấm ra đĩa cùng sườn nướng, bì, một miếng chả trứng, rưới mỡ hành lên trên.\n4. Ăn kèm đồ chua, dưa chuột và chan nước mắm kẹo chua ngọt."
+    },
+    {
+      "id": "vn_08",
+      "name": "Bánh Xèo Miền Tây",
+      "category": "Món Cuốn & Bánh",
+      "area": "Miền Nam",
+      "thumb": "https://githubusercontent.com",
+      "ingredients": [
+        "300g bột bánh xèo pha sẵn",
+        "200ml nước cốt dừa, 1 thìa cà phê bột nghệ",
+        "200g tôm đất, 200g thịt ba chỉ thái mỏng",
+        "200g giá đỗ, hành lá cắt nhỏ, đậu xanh cà vỏ hấp chín",
+        "Cải bẹ xanh, xà lách, lá cách, rau thơm các loại",
+        "Nước mắm chua ngọt pha loãng"
+      ],
+      "instructions": "1. Khuấy đều bột bánh xèo với nước, nước cốt dừa, bột nghệ và hành lá, để bột nghỉ 30 phút.\n2. Xào sơ tôm và thịt ba chỉ với chút gia vị.\n3. Làm nóng chảo rộng, thoa lớp dầu mỏng, cho tôm thịt vào rồi múc 1 vá bột tráng đều thật mỏng quanh chảo.\n4. Rắc giá đỗ và đậu xanh vào giữa, đậy vung 2 phút cho bánh chín rồi mở vung chiên thêm đến khi rìa bánh giòn rụm, gập đôi lại và dùng kèm rau xanh."
+    },
+    {
+      "id": "vn_09",
+      "name": "Cao Lầu Hội An",
+      "category": "Món Khô",
+      "area": "Miền Trung",
+      "thumb": "https://githubusercontent.com",
+      "ingredients": [
+        "500g sợi mì cao lầu vàng",
+        "400g thịt nạc dăm (thịt xá xíu)",
+        "1 gói ngũ vị hương, nước tương, tỏi băm, đường",
+        "Bánh tráng chiên giòn cắt vuông (da heo chiên)",
+        "Giá đỗ, rau đắng, cải con, xà lách",
+        "Chanh, ớt tương Hội An"
+      ],
+      "instructions": "1. Thịt nạc dăm ướp với ngũ vị hương, nước tương, tỏi băm và đường trong 1 tiếng, sau đó áp chảo cho săn mặt rồi rim nhỏ lửa với nước ướp đến khi thịt chín mềm, nước sốt sánh lại (giữ lại phần nước xá xíu này).\n2. Trụng nhanh sợi mì cao lầu và giá đỗ qua nước sôi cho nóng mềm rồi xếp vào tô.\n3. Xếp thịt xá xíu thái lát mỏng lên trên, chan 3-4 thìa nước sốt xá xíu đậm đà.\n4. Thêm bánh tráng chiên giòn, rau sống và trộn đều khi ăn."
+    },
+    {
+      "id": "vn_10",
+      "name": "Chả Cá Lã Vọng",
+      "category": "Món Khô",
+      "area": "Hà Nội",
+      "thumb": "https://githubusercontent.com",
+      "ingredients": [
+        "600g phi-lê cá lăng (hoặc cá quả)",
+        "1 củ riềng giã nhỏ, 2 thìa nước cốt nghệ",
+        "2 thìa mẻ chua, 1 thìa mắm tôm",
+        "1 bó lớn thì là, hành lá cắt khúc",
+        "Bún rối, đậu phộng rang, bánh đa nướng",
+        "Mắm tôm đánh bông với chanh, đường, ớt"
+      ],
+      "instructions": "1. Cá lăng cắt miếng vuông vừa ăn, ướp với nước cốt riềng, nghệ, mẻ, mắm tôm và chút dầu ăn trong 1 tiếng.\n2. Nướng sơ miếng cá trên vỉ than cho xém vàng hai mặt.\n3. Khi ăn, đặt chảo lên bếp nhỏ tại bàn, cho cá vào đảo cùng thì là và hành lá cắt khúc trong mỡ nóng.\n4. Gắp cá và rau thơm ăn kèm bún rối, đậu phộng rang và chấm mắm tôm đánh sủi bọt."
+    },
+    {
+      "id": "vn_11",
+      "name": "Trà Sen Tây Hồ",
+      "category": "Đồ Uống",
+      "area": "Hà Nội",
+      "thumb": "https://githubusercontent.com",
+      "ingredients": [
+        "10g trà xanh Tân Cương ướp gạo sen",
+        "300ml nước suối tinh khiết đun sôi để nguội bớt (khoảng 80°C)",
+        "1 chút mứt sen trần ăn kèm (tùy chọn)"
+      ],
+      "instructions": "1. Tráng nóng ấm trà và chén bằng nước sôi để giữ nhiệt và đánh thức hương thơm.\n2. Cho trà ướp sen vào ấm, rót một chút nước 80°C ngập mặt trà rồi chắt bỏ ngay (bước đánh thức trà).\n3. Rót 300ml nước nóng 80°C vào ấm, đậy nắp hãm trà trong khoảng 40-50 giây.\n4. Rót trà ra chén tống rồi chia đều ra các chén quân để thưởng thức vị chát dịu và hương sen thanh khiết."
+    },
+    {
+      "id": "vn_12",
