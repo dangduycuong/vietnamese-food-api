@@ -5,7 +5,7 @@
       "name": "Phở Bò Hà Nội",
       "category": "Món Nước",
       "area": "Miền Bắc",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "pho_bo.jpg",
       "ingredients": [
         "500g bánh phở tươi",
         "300g thịt bò tái (thăn hoặc bắp)",
@@ -21,7 +21,7 @@
       "name": "Cà Phê Trứng",
       "category": "Đồ Uống",
       "area": "Hà Nội",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "cafe_trung.png",
       "ingredients": [
         "2 lòng đỏ trứng gà tươi",
         "2 thìa cà phê sữa đặc",
@@ -35,7 +35,7 @@
       "name": "Bún Chả Hà Nội",
       "category": "Món Khô",
       "area": "Hà Nội",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "bun_cha.jpg",
       "ingredients": [
         "500g thịt ba chỉ",
         "400g thịt nạc vai băm nhuyễn",
@@ -51,7 +51,7 @@
       "name": "Bánh Mì Thịt Nguội Pa-tê",
       "category": "Món Cuốn & Bánh",
       "area": "Toàn Quốc",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "banh_mi.jpg",
       "ingredients": [
         "2 ổ bánh mì vỏ giòn",
         "100g pa-tê gan heo",
@@ -67,7 +67,7 @@
       "name": "Bún Bò Huế",
       "category": "Món Nước",
       "area": "Miền Trung",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "bun_bo_hue.jpg",
       "ingredients": [
         "1kg xương ống bò và chân giò heo",
         "500g bắp bò, 300g chả cua Huế",
@@ -83,7 +83,7 @@
       "name": "Gỏi Cuốn Tôm Thịt",
       "category": "Món Cuốn & Bánh",
       "area": "Miền Nam",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "goi_cuon.jpg",
       "ingredients": [
         "1 xấp bánh tráng mỏng dẻo",
         "300g tôm sú tươi",
@@ -99,7 +99,7 @@
       "name": "Cơm Tấm Sườn Bì Chả",
       "category": "Món Khô",
       "area": "Sài Gòn",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "com_tam.jpg",
       "ingredients": [
         "500g gạo tấm thơm",
         "4 miếng sườn cốt lết heo",
@@ -115,7 +115,7 @@
       "name": "Bánh Xèo Miền Tây",
       "category": "Món Cuốn & Bánh",
       "area": "Miền Nam",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "banh_xeo.jpg",
       "ingredients": [
         "300g bột bánh xèo pha sẵn",
         "200ml nước cốt dừa, 1 thìa cà phê bột nghệ",
@@ -131,7 +131,7 @@
       "name": "Cao Lầu Hội An",
       "category": "Món Khô",
       "area": "Miền Trung",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "cao_lau.jpg",
       "ingredients": [
         "500g sợi mì cao lầu vàng",
         "400g thịt nạc dăm (thịt xá xíu)",
@@ -147,7 +147,7 @@
       "name": "Chả Cá Lã Vọng",
       "category": "Món Khô",
       "area": "Hà Nội",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "cha_ca_la_vong.jpg",
       "ingredients": [
         "600g phi-lê cá lăng (hoặc cá quả)",
         "1 củ riềng giã nhỏ, 2 thìa nước cốt nghệ",
@@ -163,7 +163,7 @@
       "name": "Trà Sen Tây Hồ",
       "category": "Đồ Uống",
       "area": "Hà Nội",
-      "thumb": "https://githubusercontent.com",
+      "thumb": "tra_sen.jpg",
       "ingredients": [
         "10g trà xanh Tân Cương ướp gạo sen",
         "300ml nước suối tinh khiết đun sôi để nguội bớt (khoảng 80°C)",
@@ -174,16 +174,16 @@
     {
       "id": "vn_12",
       "name": "Chè Bưởi Cốt Dừa",
-"category": "Đồ Uống",
-"area": "Miền Nam",
-"thumb": "githubusercontent.com",
-"ingredients": [
-"200g cùi bưởi trắng (đã gọt sạch vỏ xanh và phần xơ)",
-"150g đậu xanh không vỏ",
-"150g bột năng, 200g đường thốt nốt",
-"200ml nước cốt dừa, lá dứa tươi",
-"Muối hạt (để bóp khử đắng cùi bưởi)"
-],
+      "category": "Đồ Uống",
+      "area": "Miền Nam",
+      "thumb": "che_buoi.jpg",
+      "ingredients": [
+        "200g cùi bưởi trắng (đã gọt sạch vỏ xanh và phần xơ)",
+        "150g đậu xanh không vỏ",
+        "150g bột năng, 200g đường thốt nốt",
+        "200ml nước cốt dừa, lá dứa tươi",
+        "Muối hạt (để bóp khử đắng cùi bưởi)"
+      ],
 "instructions": "1. Cùi bưởi cắt hạt lựu, bóp kỹ với muối và xả nước nhiều lần cho đến khi hết hẳn vị đắng rồi vắt ráo. Áo đều cùi bưởi với đường và bột năng, đem luộc chín đến khi cùi bưởi trong suốt thì vớt ra ngâm nước đá lạnh để tạo độ giòn.\n2. Hấp chín mềm đậu xanh (giữ nguyên hạt không nát).\n3. Nấu sôi nước với lá dứa và đường thốt nốt, hòa bột năng với nước lạnh đổ từ từ vào khuấy sánh.\n4. Cho cùi bưởi giòn và đậu xanh vào khuấy nhẹ, múc ra cốc và chan nước cốt dừa béo ngậy lên trên."
 }
 ]
