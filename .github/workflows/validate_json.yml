@@ -1,0 +1,10 @@
+name: Validate JSON
+on: [pull_request, push]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check JSON syntax
+        run: python3 -m json.tool vietnamese_foods.json > /dev/null
