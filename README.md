@@ -19,7 +19,9 @@ Ghép đường dẫn gốc dưới đây với tên file trong trường `"thum
 ```text
 https://raw.githubusercontent.com/dangduycuong/vietnamese-food-api/main/images/<tên-file-ảnh>
 ```
-**Ví dụ:** `https://raw.githubusercontent.com/dangduycuong/vietnamese-food-api/main/images/pho_bo.jpg`
+**Ví dụ:** ```text
+https://raw.githubusercontent.com/dangduycuong/vietnamese-food-api/main/images/pho_bo.jpg
+```
 
 ## 📦 Cấu trúc dữ liệu (JSON Schema)
 
