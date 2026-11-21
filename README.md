@@ -11,13 +11,15 @@ Dự án được tạo ra nhằm giúp cộng đồng lập trình viên dễ d
 * **Method:** `GET`
 * **Endpoint:**
 ```text
-https://githubusercontent.com
+[https://githubusercontent.com](https://raw.githubusercontent.com/dangduycuong/vietnamese-food-api/main/vietnamese_foods.json
+)
 ```
 
 ### 2. Đường dẫn hình ảnh (Base Image URL)
 Ghép đường dẫn gốc dưới đây với tên file trong trường `"thumb"` của mỗi món:
 ```text
-https://githubusercontent.com<tên-file-ảnh>
+[https://githubusercontent.com<tên-file-ảnh>](https://raw.githubusercontent.com/dangduycuong/vietnamese-food-api/main/images/<tên-file-ảnh>
+)
 ```
 **Ví dụ:** `https://githubusercontent.compho_bo.jpg`
 
