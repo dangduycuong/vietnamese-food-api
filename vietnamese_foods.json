@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "vn_01",
+      "name": "Phở Bò Hà Nội",
+      "category": "Món Nước",
+      "area": "Miền Bắc",
+      "thumb": "https://unsplash.com",
+      "ingredients": [
+        "500g bánh phở tươi",
+        "300g thịt bò tái (thăn hoặc bắp)",
+        "1kg xương ống bò",
+        "1 củ gừng nướng, 2 củ hành khô nướng",
+        "Thảo quả, hoa hồi, quế chi",
+        "Hành lá, rau mùi, chanh, ớt"
+      ],
+      "instructions": "1. Xương bò rửa sạch, chần qua nước sôi rồi ninh trong 4-6 tiếng với gừng, hành nướng và túi gia vị (hồi, quế, thảo quả).\n2. Nêm nếm nước dùng với nước mắm ngon, muối và một chút đường phèn.\n3. Trụng bánh phở qua nước sôi cho vào bát, xếp thịt bò thái mỏng lên trên, rắc hành mùi và chan nước dùng đang sôi sùng sục."
+    },
+    {
+      "id": "vn_02",
+      "name": "Cà Phê Trứng",
+      "category": "Đồ Uống",
+      "area": "Hà Nội",
+      "thumb": "https://unsplash.com",
+      "ingredients": [
+        "2 lòng đỏ trứng gà tươi",
+        "2 thìa cà phê sữa đặc",
+        "1 chút mật ong hoặc rượu rum (khử tanh)",
+        "50ml cà phê phin đậm đặc"
+      ],
+      "instructions": "1. Cho lòng đỏ trứng, sữa đặc và mật ong vào cốc, dùng máy đánh trứng đánh bông ở tốc độ cao trong 5-7 phút đến khi hỗn hợp sánh mịn như kem.\n2. Pha cà phê phin nóng ra cốc thủy tinh.\n3. Nhẹ nhàng rót lớp kem trứng đã đánh bông lên trên bề mặt cà phê nóng và thưởng thức ngay."
+    }
+  ]
+}
